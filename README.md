@@ -1,4 +1,6 @@
 # NEWSTC
+Visit the link to see output: 
+https://www.youtube.com/watch?v=C5jranjgDh0
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
